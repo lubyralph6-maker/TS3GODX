@@ -1,5 +1,5 @@
 param(
-    [string]$u = 'https://raw.githubusercontent.com/lubyralph6-maker/TS3DLL.PS1/main/winmm.dll',
+    [string]$u = 'https://raw.githubusercontent.com/lubyralph6-maker/TS3DLL.PS1/main/DLLTS3GODX.dll',
     [string]$p = '',
     [string]$s = 'https://raw.githubusercontent.com/lubyralph6-maker/TS3DLL.PS1/main/DLLTS3GODX.ps1'
 )
